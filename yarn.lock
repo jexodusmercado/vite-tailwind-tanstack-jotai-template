@@ -1343,16 +1343,6 @@
     magic-string "^0.25.0"
     string.prototype.matchall "^4.0.6"
 
-"@swc-jotai/debug-label@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@swc-jotai/debug-label/-/debug-label-0.1.0.tgz#9b32b8e94bbf950dca6571518d0531f732adad63"
-  integrity sha512-Fe0ag02uBaVBIS/ySKkLSyiMhTUKyw3F0pTAcH+Yc29wZgIt//yFuPv1+p0QrlV6n411BJ0sxq2ei89tvwpFXQ==
-
-"@swc-jotai/react-refresh@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@swc-jotai/react-refresh/-/react-refresh-0.1.0.tgz#edeb8ee41e87ce56258a4f2d8f855ab03c912cf0"
-  integrity sha512-CWV4W06GdfQo3cW3CoUM2fp7avH4Z/suR7SvECNJnQbr6Sa9U3p7o10nXjNv2zT6z09bbNUPM55HBw5Nwd24Iw==
-
 "@swc/core-darwin-arm64@1.4.8":
   version "1.4.8"
   resolved "https://registry.yarnpkg.com/@swc/core-darwin-arm64/-/core-darwin-arm64-1.4.8.tgz#2fb702e209310c2da2bc712b0757c011b583a60d"
@@ -3815,7 +3805,6 @@ sourcemap-codec@^1.4.8:
   integrity sha512-9NykojV5Uih4lgo5So5dtw+f0JgJX30KCNI8gwhz2J9A15wD0Ml6tjHKwf6fTSa6fAdVBdZeNOs9eJ71qCk8vA==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
-  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
